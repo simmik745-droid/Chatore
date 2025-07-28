@@ -1,0 +1,7 @@
+.env
+bot_memory.json
+user_tiers.json
+__pycache__/
+*.pyc
+.DS_Store
+*.log
